@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name RGB-Ear-Ring-rescue)(type Legacy)(uri "${KIPRJMOD}/RGB Ear Ring-rescue.lib")(options "")(descr ""))
+)

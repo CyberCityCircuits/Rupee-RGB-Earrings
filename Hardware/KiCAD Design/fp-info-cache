@@ -1,0 +1,267 @@
+60158583919991
+CCC-Parts-Library
+1x04_P3.81_Pluggable
+
+
+0
+4
+4
+CCC-Parts-Library
+1x08_P3.81_Pluggable
+
+
+0
+8
+8
+CCC-Parts-Library
+2x07_SMD
+surface-mounted straight socket strip, 2x07, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Surface mounted socket strip SMD 2x07 2.54mm double row
+0
+14
+14
+CCC-Parts-Library
+2x07_THT
+Through hole straight socket strip, 2x07, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x07 2.54mm double row
+0
+14
+14
+CCC-Parts-Library
+400-0002-SOP65P640X120-14N
+(ST)14-Lead(TSSOP)
+Integrated Circuit
+0
+14
+14
+CCC-Parts-Library
+400-0004-DFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.3mm
+DFN, 8 Pin (https://www.onsemi.com/pub/Collateral/NB3N551-D.PDF#page=7), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+13
+9
+CCC-Parts-Library
+500-0001-TS1187ACGB
+500-0001-TS1187ACGB
+Switch
+0
+4
+4
+CCC-Parts-Library
+500-0001-TS1187ACGB-(2_Pin)
+500-0001-TS1187ACGB
+Switch
+0
+4
+2
+CCC-Parts-Library
+500-0011-USB_MIcro_B_Receptacle
+500-0011-USB_MIcro_B_Receptacle
+Connector
+0
+9
+9
+CCC-Parts-Library
+500-0012-SMD_USB_Mini-B
+USB Mini-B 5-pin SMD connector, http://downloads.lumberg.com/datenblaetter/en/2486_01.pdf
+USB USB_B USB_Mini connector
+0
+9
+6
+CCC-Parts-Library
+1367073-1_Card_Edge
+
+
+0
+20
+20
+CCC-Parts-Library
+1367073-1_Card_Edge - Copy
+
+
+0
+20
+20
+CCC-Parts-Library
+ASMBKTF00A306
+2220 Tricolor PLCC-4 LED
+LED
+0
+4
+4
+CCC-Parts-Library
+CASE-A_3216
+Tantalum Capacitor SMD Kemet-A (3216-18 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+CCC-Parts-Library
+C_0603
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+CCC-Parts-Library
+C_0603_MiniText
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+CCC-Parts-Library
+C_0805
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+CCC-Parts-Library
+C_Elec_5x5.8
+SMD capacitor, aluminum electrolytic nonpolar, 5.0x5.8mm
+capacitor electrolyic nonpolar
+0
+2
+2
+CCC-Parts-Library
+D_SOD-123
+SOD-123_
+Diode
+0
+2
+2
+CCC-Parts-Library
+D_SOD-323F
+SOD-323
+SOD-323
+0
+2
+2
+CCC-Parts-Library
+LED_0603
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+CCC-Parts-Library
+LED_0805
+LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+CCC-Parts-Library
+LED_WS2812B_PLCC4
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
+0
+4
+4
+CCC-Parts-Library
+LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
+0
+4
+4
+CCC-Parts-Library
+L_1210
+L_1210
+inductor handsolder
+0
+2
+2
+CCC-Parts-Library
+PinSocket_2x07_P2.54mm_Vertical_SMD
+surface-mounted straight socket strip, 2x07, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Surface mounted socket strip SMD 2x07 2.54mm double row
+0
+14
+14
+CCC-Parts-Library
+R_0603
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+CCC-Parts-Library
+R_0805
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+CCC-Parts-Library
+SMD-3213_3P
+CSTCE-V
+Capacitor
+0
+3
+3
+CCC-Parts-Library
+SMD-3225_4P
+X322512MSB4SI-2
+Crystal or Oscillator
+0
+4
+3
+CCC-Parts-Library
+SMD_3215-2Pin
+SMD Crystal FC-135 https://support.epson.biz/td/api/doc_check.php?dl=brief_FC-135R_en.pdf
+SMD SMT Crystal
+0
+2
+2
+CCC-Parts-Library
+SMD_USB_Mini-B_Lumberg
+USB Mini-B 5-pin SMD connector, http://downloads.lumberg.com/datenblaetter/en/2486_01.pdf
+USB USB_B USB_Mini connector
+0
+9
+6
+CCC-Parts-Library
+SOD-123
+SOD-123_
+Diode
+0
+2
+2
+CCC-Parts-Library
+SOIC-8_3.9x4.9mm_P1.27mm
+SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+CCC-Parts-Library
+SOIC-8_W5.3mm
+http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet-Summary.pdf
+
+0
+8
+8
+CCC-Parts-Library
+SOIC-16_3.9x9.9mm_P1.27mm
+SOIC, 16 Pin (JEDEC MS-012AC, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+16
+16
+CCC-Parts-Library
+Schematic - LED 5mm(2.56P) 001
+
+
+0
+2
+2
+CCC-Parts-Library
+TQFP-32_7x7x08P
+32A
+Integrated Circuit
+0
+32
+32
