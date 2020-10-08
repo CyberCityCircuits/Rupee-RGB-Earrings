@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source "C:\\Users\\CCC-David\\OneDrive - Cyber City Circuits\\Cyber City Circuits\\Projects\\RGB Ear Rings\\RGB Ear Rings SMD Version\\KICAD - v2\\RGB Ear Ring.sch")
-    (date "7/14/2020 3:42:02 PM")
+    (source "C:\\Users\\CCC-David\\Documents\\GitHub\\Rupee-RGB-Earrings\\Hardware\\KiCAD Design\\RGB Ear Ring.sch")
+    (date "10/8/2020 9:50:56 AM")
     (tool "Eeschema (5.1.6)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
